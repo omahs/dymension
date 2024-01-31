@@ -60,7 +60,7 @@ export PATH=$PATH:$(go env GOPATH)/bin
 
 - Using the setup script:
 
-    This method is preferred as it preconfigured to support [running rollapps locally](https://github.com/dymensionxyz/roller)
+    This method is preferred as it is preconfigured to support [running rollapps locally](https://github.com/dymensionxyz/roller)
 
     ```sh
     bash scripts/setup_local.sh
